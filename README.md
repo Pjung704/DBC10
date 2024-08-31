@@ -8,3 +8,7 @@ DA DS projects
 3. R program
 4. Looker
 5. Linear regression
+## Contact me
+It's me
+## image
+ใส่รูป ! ต่อด้วยURLรูป.JPEG
